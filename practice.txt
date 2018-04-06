@@ -1,2 +1,6 @@
 Git session
 Day 1
+
+stash demo
+update in progress
+updates completed
